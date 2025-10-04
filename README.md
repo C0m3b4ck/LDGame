@@ -14,6 +14,7 @@ Will lead you to the packaged game on itch.io
 Made using Godot. Will be packaged with all of three settings (Compatibility, Mobile and Forward+).
 
 ## For players
+Will have controls, version choice help etc.
 
 ## Roadmap / Future Enhancements  
 As for now, none.
