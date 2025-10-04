@@ -1,2 +1,2 @@
 # LDGame
-A jam game for Ludum Dare 58
+A jam game for Ludum Dare 58.
